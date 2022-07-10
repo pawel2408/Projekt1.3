@@ -14,36 +14,16 @@
     <div class="togy-nav hidden lg:block">
         <div class="container xl:max-w-full 3xl:max-w-[1700px]">
             <nav class="navbar flex flex-wrap">
-                <a class="navbar-brand self-center" href="index.html">
-                    <img src="assets/img/logo.png" alt="logo">
+                <a class="navbar-brand self-center" href="/">
+                    <img src="assets/img/logo.png" alt="logo" width="40" height="40">
                 </a>
                 <div class="flex self-center grow basis-auto">
                     <ul class="self-center flex flex-row ml-auto mr-auto">
-                        <li class="mr-12 xl:mr-15 relative group">
-                            <a href="#" class="block text-black-color active font-semibold text-16px ease-in duration-300 relative pr-15 before:absolute before:right-6 before:top-38 before:w-1 before:h-9 before:bg-black-color before:-rotate-45 before:ease-in before:duration-300 after:absolute after:right-0 after:top-38 after:w-1 after:h-9 after:bg-black-color after:rotate-45 after:ease-in after:duration-300 hover:text-primary-color hover:before:bg-primary-color hover:after:bg-primary-color pt-30 pb-30">Home</a>
-                            <ul class="absolute bg-white left-0 w-[250px] rounded-sm top-84 z-99 shadow-dropdown pt-10 pb-10 opacity-0 invisible ease-in duration-300 group-hover:opacity-100 group-hover:visible">
-                                <li>
-                                    <a href="index.html" class="active block font-medium text-16px text-black-color ease-in duration-300 hover:text-primary-color pt-9 pb-9 pl-20 pr-20">Project Management</a>
-                                </li>
-                                <li>
-                                    <a href="index-2.html" class="block font-medium text-16px text-black-color ease-in duration-300 hover:text-primary-color pt-9 pb-9 pl-20 pr-20">Product Landing</a>
-                                </li>
-                                <li>
-                                    <a href="index-3.html" class="block font-medium text-16px text-black-color ease-in duration-300 hover:text-primary-color pt-9 pb-9 pl-20 pr-20">Customer Support</a>
-                                </li>
-                                <li>
-                                    <a href="index-4.html" class="block font-medium text-16px text-black-color ease-in duration-300 hover:text-primary-color pt-9 pb-9 pl-20 pr-20">Doc Landing</a>
-                                </li>
-                                <li>
-                                    <a href="index-5.html" class="block font-medium text-16px text-black-color ease-in duration-300 hover:text-primary-color pt-9 pb-9 pl-20 pr-20">Chatbot Landing</a>
-                                </li>
-                                <li>
-                                    <a href="index-6.html" class="block font-medium text-16px text-black-color ease-in duration-300 hover:text-primary-color pt-9 pb-9 pl-20 pr-20">App Landing</a>
-                                </li>
-                            </ul>
-                        </li>
                         <li class="ml-12 xl:ml-15 mr-12 xl:mr-15 relative group">
-                            <a href="#" class="block text-black-color font-semibold text-16px ease-in duration-300 relative pr-15 before:absolute before:right-6 before:top-38 before:w-1 before:h-9 before:bg-black-color before:-rotate-45 before:ease-in before:duration-300 after:absolute after:right-0 after:top-38 after:w-1 after:h-9 after:bg-black-color after:rotate-45 after:ease-in after:duration-300 hover:text-primary-color hover:before:bg-primary-color hover:after:bg-primary-color pt-30 pb-30">Pages</a>
+                            <a href="/" class="block active text-black-color font-semibold text-16px ease-in duration-300 hover:text-primary-color pt-30 pb-30">Home</a>
+                        </li>
+                        {{-- <li class="ml-12 xl:ml-15 mr-12 xl:mr-15 relative group">
+                            <a href="#" class="block text-black-color font-semibold text-16px ease-in duration-300 hover:text-primary-color hover:before:bg-primary-color hover:after:bg-primary-color pt-30 pb-30">Pages</a>
                             <ul class="absolute bg-white left-0 w-[250px] rounded-sm top-84 z-99 shadow-dropdown pt-10 pb-10 opacity-0 invisible ease-in duration-300 group-hover:opacity-100 group-hover:visible">
                                 <li>
                                     <a href="about.html" class="block font-medium text-16px text-black-color ease-in duration-300 hover:text-primary-color pt-9 pb-9 pl-20 pr-20">About Us</a>
@@ -84,47 +64,53 @@
                                     <a href="not-found.html" class="block font-medium text-16px text-black-color ease-in duration-300 hover:text-primary-color pt-9 pb-9 pl-20 pr-20">404 Error Page</a>
                                 </li>
                             </ul>
+                        </li> --}}
+                        {{-- <li class="ml-12 xl:ml-15 mr-12 xl:mr-15 relative group">
+                            <a href="blog" class="block text-black-color font-semibold text-16px ease-in duration-300 hover:text-primary-color pt-30 pb-30">Usługi</a>
+                        </li> --}}
+                        {{-- <li class="ml-12 xl:ml-15 mr-12 xl:mr-15 relative group">
+                            <a href="blog" class="block text-black-color font-semibold text-16px ease-in duration-300 hover:text-primary-color pt-30 pb-30">Portfolio</a>
+                        </li> --}}
+                        <li class="ml-12 xl:ml-15 mr-12 xl:mr-15 relative group">
+                            <a href="blog" class="block text-black-color font-semibold text-16px ease-in duration-300 hover:text-primary-color pt-30 pb-30">Blog</a>
                         </li>
                         <li class="ml-12 xl:ml-15 mr-12 xl:mr-15 relative group">
-                            <a href="#" class="block text-black-color font-semibold text-16px ease-in duration-300 relative pr-15 before:absolute before:right-6 before:top-38 before:w-1 before:h-9 before:bg-black-color before:-rotate-45 before:ease-in before:duration-300 after:absolute after:right-0 after:top-38 after:w-1 after:h-9 after:bg-black-color after:rotate-45 after:ease-in after:duration-300 hover:text-primary-color hover:before:bg-primary-color hover:after:bg-primary-color pt-30 pb-30">Services</a>
-                            <ul class="absolute bg-white left-0 w-[250px] rounded-sm top-84 z-99 shadow-dropdown pt-10 pb-10 opacity-0 invisible ease-in duration-300 group-hover:opacity-100 group-hover:visible">
-                                <li>
-                                    <a href="services.html" class="block font-medium text-16px text-black-color ease-in duration-300 hover:text-primary-color pt-9 pb-9 pl-20 pr-20">Services</a>
-                                </li>
-                                <li>
-                                    <a href="services-details.html" class="block font-medium text-16px text-black-color ease-in duration-300 hover:text-primary-color pt-9 pb-9 pl-20 pr-20">Services Details</a>
-                                </li>
-                            </ul>
+                            <a href="/contact" class="block text-black-color font-semibold text-16px ease-in duration-300 hover:text-primary-color pt-30 pb-30">Kontakt</a>
                         </li>
-                        <li class="ml-12 xl:ml-15 mr-12 xl:mr-15 relative group">
-                            <a href="#" class="block text-black-color font-semibold text-16px ease-in duration-300 relative pr-15 before:absolute before:right-6 before:top-38 before:w-1 before:h-9 before:bg-black-color before:-rotate-45 before:ease-in before:duration-300 after:absolute after:right-0 after:top-38 after:w-1 after:h-9 after:bg-black-color after:rotate-45 after:ease-in after:duration-300 hover:text-primary-color hover:before:bg-primary-color hover:after:bg-primary-color pt-30 pb-30">Portfolio</a>
-                            <ul class="absolute bg-white left-0 w-[250px] rounded-sm top-84 z-99 shadow-dropdown pt-10 pb-10 opacity-0 invisible ease-in duration-300 group-hover:opacity-100 group-hover:visible">
-                                <li>
-                                    <a href="portfolio.html" class="block font-medium text-16px text-black-color ease-in duration-300 hover:text-primary-color pt-9 pb-9 pl-20 pr-20">Portfolio</a>
+                        
+                        @auth
+                            <li class="ml-12 xl:ml-15 mr-12 xl:mr-15 relative group">
+                                <a href="/" class="block active text-black-color font-semibold text-16px ease-in duration-300 hover:text-primary-color pt-30 pb-30"
+                                    >Witaj, {{ auth()->user()->name }} {{ auth()->user()->username }}
+                                </a>
+                            </li>
+
+                            <form action="/" 
+                                    method="POST">
+                                    @csrf
+
+                                <li class="ml-12 xl:ml-15 mr-15">
+                                    <button type="submit" class="block text-black-color font-semibold text-16px ease-in duration-300 hover:text-primary-color pt-30 pb-30">Wyloguj</button>
                                 </li>
-                                <li>
-                                    <a href="portfolio-details.html" class="block font-medium text-16px text-black-color ease-in duration-300 hover:text-primary-color pt-9 pb-9 pl-20 pr-20">Portfolio Details</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li class="ml-12 xl:ml-15 mr-12 xl:mr-15 relative group">
-                            <a href="#" class="block text-black-color font-semibold text-16px ease-in duration-300 relative pr-15 before:absolute before:right-6 before:top-38 before:w-1 before:h-9 before:bg-black-color before:-rotate-45 before:ease-in before:duration-300 after:absolute after:right-0 after:top-38 after:w-1 after:h-9 after:bg-black-color after:rotate-45 after:ease-in after:duration-300 hover:text-primary-color hover:before:bg-primary-color hover:after:bg-primary-color pt-30 pb-30">Blog</a>
-                            <ul class="absolute bg-white left-0 w-[250px] rounded-sm top-84 z-99 shadow-dropdown pt-10 pb-10 opacity-0 invisible ease-in duration-300 group-hover:opacity-100 group-hover:visible">
-                                <li>
-                                    <a href="/blog" class="block font-medium text-16px text-black-color ease-in duration-300 hover:text-primary-color pt-9 pb-9 pl-20 pr-20">Blog Grid</a>
-                                </li>
-                                <li>
-                                    <a href="blog-right-sidebar.html" class="block font-medium text-16px text-black-color ease-in duration-300 hover:text-primary-color pt-9 pb-9 pl-20 pr-20">Blog Right Sidebar</a>
-                                </li>
-                                <li>
-                                    <a href="blog-details.html" class="block font-medium text-16px text-black-color ease-in duration-300 hover:text-primary-color pt-9 pb-9 pl-20 pr-20">Blog Details</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li class="ml-12 xl:ml-15">
-                            <a href="contact.html" class="block text-black-color font-semibold text-16px ease-in duration-300 hover:text-primary-color pt-30 pb-30">Contact Us</a>
-                        </li>
+                            </form>
+
+                            <li class="ml-12 xl:ml-15 mr-12 xl:mr-15 relative group">
+                                <a href="/admin/blog/create" class="block active text-black-color font-semibold text-16px ease-in duration-300 hover:text-primary-color pt-30 pb-30">Create</a>
+                            </li>
+                        @else
+                            <li class="ml-12 xl:ml-15 mr-12 xl:mr-15 relative group">
+                                <a href="/register" class="block text-black-color font-semibold text-16px ease-in duration-300 hover:text-primary-color pt-30 pb-30">Zarejestruj</a>
+                            </li>
+                            <li class="ml-12 xl:ml-15 mr-12 xl:mr-15 relative group">
+                                <a href="/login" class="block text-black-color font-semibold text-16px ease-in duration-300 hover:text-primary-color pt-30 pb-30">Zaloguj</a>
+                            </li>
+                        @endauth
                     </ul>
+{{-- koniec menu --}}
+
+
+
+
                     <div class="self-center">
                         <a href="contact.html" class="inline-block font-semibold text-13px md:text-14px lg:text-15px rounded-sm text-white pt-17 pb-13 pl-35 pr-35 bg-secondary-gradient-color shadow-custom-box-shadow hover:shadow-secondary-btn ease-in duration-300">Get Started</a>
                     </div>

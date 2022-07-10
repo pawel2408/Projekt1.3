@@ -22,11 +22,11 @@
             <div class="container xl:max-w-full 3xl:max-w-[1700px]">
                 <div class="grid gap-25 md:gap-40 grid-cols-1 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 xl:grid-cols-2">
                     <div class="main-banner-content self-center md:text-center lg:text-left">
-                        <h1 class="font-black text-25px md:text-40px lg:text-44px xl:text-55px 2xl:text-60px 3xl:text-70px text-black-color mb-10 md:mb-12 lg:mb-15">Togy Helps Teams Move Work Forward Together</h1>
+                        <h1 class="font-black text-25px md:text-40px lg:text-44px xl:text-55px 2xl:text-60px 3xl:text-70px text-black-color mb-10 md:mb-12 lg:mb-15">Nowo powstający startup, poznaj nas</h1>
                         <p class="text-13px md:text-15px lg:text-15px xl:text-16px leading-8 text-optional-color md:max-w-[625px] lg:max-w-[100%] xl:max-w-[540px] md:m-auto lg:m-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla imperdiet nulla duis ac. Id massa scelerisque venenatis, massa gravida donec orci.</p>
                         <form class="mt-15 md:mt-25 xl:mt-30 md:max-w-[625px] md:m-auto lg:max-w-[100%] xl:max-w-[520px] relative lg:m-0 lg:mt-25">
-                            <input type="text" placeholder="Enter Your Email" class="input-newsletter font-medium text-13px md:text-15px h-55 md:h-60 block w-full md:w-[67%] lg:w-[60%] pl-15 md:pl-25 pr-15 md:pr-25 bg-gray-light-color md:pt-3 pt-4 rounded-sm outline-0 placeholder:text-optional-color placeholder:transition placeholder:duration-300 placeholder:ease-in-out focus:placeholder:text-transparent">
-                            <button type="submit" class="inline-block font-medium text-13px md:text-15px rounded-sm text-white h-50 sm:h-55 md:h-60 pl-25 pr-25 md:pl-35 md:pr-35 leading-[53px] md:leading-[63px] sm:absolute right-0 top-0 bg-gradient-color mt-15 sm:mt-0 hover:shadow-primary-btn ease-in duration-300">Start Free Trial</button>
+                            <input type="text" placeholder="Twój email" class="input-newsletter font-medium text-13px md:text-15px h-55 md:h-60 block w-full md:w-[67%] lg:w-[60%] pl-15 md:pl-25 pr-15 md:pr-25 bg-gray-light-color md:pt-3 pt-4 rounded-sm outline-0 placeholder:text-optional-color placeholder:transition placeholder:duration-300 placeholder:ease-in-out focus:placeholder:text-transparent">
+                            <button type="submit" class="inline-block font-medium text-13px md:text-15px rounded-sm text-white h-50 sm:h-55 md:h-60 pl-25 pr-25 md:pl-35 md:pr-35 leading-[53px] md:leading-[63px] sm:absolute right-0 top-0 bg-gradient-color mt-15 sm:mt-0 hover:shadow-primary-btn ease-in duration-300">rozposznij okres próbny</button>
                         </form>
                     </div>
                     <div class="main-banner-image text-center wow animate__animated animate__fadeInUp" data-wow-delay=".1s">
@@ -34,8 +34,6 @@
                     </div>
                 </div>
             </div>
-            <div class="left-[45%] top-[8%] absolute -z-1 hidden lg:inline"><img src="assets/img/shape/shape1.png" class="animate-custom-rotateme" alt="shape"></div>
-            <div class="bottom-[8%] left-[43%] absolute -z-1 hidden lg:inline"><img src="assets/img/shape/shape2.png" class="animate-custom-rotateme" alt="shape"></div>
         </div>
         <!-- End Main Banner Area -->
         
@@ -43,7 +41,7 @@
         <div class="features-area pt-40 lg:pt-100 pb-60 md:pb-80 lg:pb-100 relative z-1 bg-cover bg-no-repeat bg-center" style="background-image: url(assets/img/shape/bg1.jpg);">
             <div class="container">
                 <div class="section-title mb-35 md:mb-40 lg:mb-50 text-center">
-                    <h2 class="font-black text-22px md:text-30px lg:text-35px xl:text-40px mb-6 text-black-color">Our Awesome Features</h2>
+                    <h2 class="font-black text-22px md:text-30px lg:text-35px xl:text-40px mb-6 text-black-color">Nasze walory</h2>
                     <p class="lg:text-16px md:text-15px text-13px lg:max-w-2xl lg:mx-auto leading-7 md:leading-8 text-optional-color">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla imperdiet nulla duis ac. Id massa scelerisque venenatis, massa gravida donec orci.</p>
                 </div>
                 <div class="grid gap-25 grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-4">
@@ -51,7 +49,7 @@
                         <img src="assets/img/icon/icon1.svg" class="mb-25 md:mb-30 inline-block" alt="icon">
                         <h3 class="font-bold text-18px md:text-20px lg:text-24px mb-10 lg:mb-12">
                             <a href="services-details.html" class="inline-block text-black-color hover:text-primary-color ease-in duration-300">
-                                Top Flexibility
+                                Elastyczność
                             </a>
                         </h3>
                         <p class="leading-7 md:leading-8 text-optional-color mb-10 md:mb-15 text-13px md:text-15px lg:text-16px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla imperdiet nulla duis.</p>
@@ -63,7 +61,7 @@
                         <img src="assets/img/icon/icon2.svg" class="mb-25 md:mb-30 inline-block" alt="icon">
                         <h3 class="font-bold text-18px md:text-20px lg:text-24px mb-10 lg:mb-12">
                             <a href="services-details.html" class="inline-block text-black-color hover:text-primary-color ease-in duration-300">
-                                Time Saving
+                                Oszczędność czasu
                             </a>
                         </h3>
                         <p class="leading-7 md:leading-8 text-optional-color mb-10 md:mb-15 text-13px md:text-15px lg:text-16px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla imperdiet nulla duis.</p>
@@ -75,7 +73,7 @@
                         <img src="assets/img/icon/icon3.svg" class="mb-25 md:mb-30 inline-block" alt="icon">
                         <h3 class="font-bold text-18px md:text-20px lg:text-24px mb-10 lg:mb-12">
                             <a href="services-details.html" class="inline-block text-black-color hover:text-primary-color ease-in duration-300">
-                                Best Management
+                                Najlepsze zarządzanie
                             </a>
                         </h3>
                         <p class="leading-7 md:leading-8 text-optional-color mb-10 md:mb-15 text-13px md:text-15px lg:text-16px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla imperdiet nulla duis.</p>
@@ -87,7 +85,7 @@
                         <img src="assets/img/icon/icon4.svg" class="mb-25 md:mb-30 inline-block" alt="icon">
                         <h3 class="font-bold text-18px md:text-20px lg:text-24px mb-10 lg:mb-12">
                             <a href="services-details.html" class="inline-block text-black-color hover:text-primary-color ease-in duration-300">
-                                Collaborative
+                                Wspłpraca
                             </a>
                         </h3>
                         <p class="leading-7 md:leading-8 text-optional-color mb-10 md:mb-15 text-13px md:text-15px lg:text-16px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla imperdiet nulla duis.</p>
@@ -97,7 +95,6 @@
                     </div>
                 </div>
             </div>
-            <div class="top-[15%] left-[3%] absolute -z-1 hidden lg:inline"><img src="assets/img/shape/shape3.png" class="animate-custom-movebounce" alt="shape"></div>
         </div>
         <!-- End Features Area -->
 
@@ -115,7 +112,6 @@
                     </div>
                 </div>
             </div>
-            <div class="right-[2%] bottom-[47%] absolute -z-1 hidden lg:inline"><img src="assets/img/shape/shape4.png" class="animate-custom-movebounce" alt="shape"></div>
         </div>
         <!-- End Overview Area -->
 
@@ -133,7 +129,6 @@
                     </div>
                 </div>
             </div>
-            <div class="left-0 bottom-[15%] absolute -z-1 hidden lg:inline"><img src="assets/img/shape/shape5.png" class="animate-custom-movebounce" alt="shape"></div>
         </div>
         <!-- End Overview Area -->
 
@@ -146,8 +141,6 @@
                 </div>
                 <div class="text-center lg:max-w-[850px] xl:max-w-[1080px] lg:m-auto relative z-1 rounded-sm lg:rounded-lg">
                     <img src="assets/img/tools-box.jpg" class="rounded-sm lg:rounded-lg wow animate__animated animate__fadeInUp" data-wow-delay=".1s" alt="tools-box">
-                    <img src="assets/img/shape/shape6.png" class="absolute -z-1 -top-10 -left-35 animate-custom-rotateme hidden lg:inline" alt="shape">
-                    <img src="assets/img/shape/shape7.png" class="absolute -right-50 animate-custom-movebounce bottom-100 hidden lg:inline" alt="shape">
                 </div>
             </div>
         </div>
@@ -298,8 +291,6 @@
                     </div>
                 </div>
             </div>
-            <div class="right-[35%] bottom-[5%] xl:right-[41%] 2xl:bottom-[10%] absolute z-1 hidden lg:inline"><img src="assets/img/shape/shape8.png" class="animate-custom-movebounce" alt="shape"></div>
-            <div class="right-[10%] top-[-15%] absolute -z-1 hidden lg:inline"><img src="assets/img/shape/shape4.png" class="animate-custom-movebounce" alt="shape"></div>
         </div>
         <!-- End Feedback Area -->
 
@@ -315,8 +306,6 @@
                     </form>
                 </div>
             </div>
-            <div class="left-[4%] top-[30%] 2xl:left-[10%] absolute z-1 hidden xl:inline"><img src="assets/img/shape/shape9.png" class="animate-custom-moveleftbounce" alt="shape"></div>
-            <div class="right-[1%] top-[20%] 2xl:right-[10%] absolute -z-1 hidden xl:inline"><img src="assets/img/shape/shape10.png" class="animate-custom-movebounce" alt="shape"></div>
         </div>
         <!-- End Free Trial Area -->
 
@@ -362,11 +351,7 @@
                     </div>
                 </div>
             </div>
-            <div class="top-[-35%] left-[2%] 2xl:top-[-12%] absolute -z-1 hidden xl:inline"><img src="assets/img/shape/shape12.png" class="animate-custom-movebounce" alt="shape"></div>
-            <div class="right-[10%] bottom-[-30.4%] absolute -z-1 hidden xl:inline"><img src="assets/img/shape/shape13.png" class="animate-custom-moveleftbounce" alt="shape"></div>
-            <div class="top-[20%] left-[52%] absolute -z-1 hidden lg:inline"><img src="assets/img/shape/shape14.png" class="animate-custom-rotateme" alt="shape"></div>
         </div>
         <!-- End Support Area -->
-
 
 </x-main-layout>
