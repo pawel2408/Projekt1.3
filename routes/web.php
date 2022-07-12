@@ -20,6 +20,7 @@ use App\Http\Controllers\SessionsController;
 */
 
 Route::get('/', function () {
+    // return str('hello world');
     return view('home');
 });
 

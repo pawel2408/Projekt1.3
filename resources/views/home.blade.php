@@ -1,4 +1,4 @@
-<x-main-layout>
+<x-layouts.main-layout>
 {{-- 
         <!-- Preloader -->
         <div class="preloader-area text-center left-0 right-0 top-0 bottom-0 bg-white fixed z-9999">
@@ -354,4 +354,4 @@
         </div>
         <!-- End Support Area -->
 
-</x-main-layout>
+</x-layouts.main-layout>

@@ -22,7 +22,7 @@
     <body>
 
             <x-posts.post-navigation />
-            @include('layouts._main-mobile-navigation')
+            @include('components.layouts._main-mobile-navigation')
 
 
         {{ $slot }}

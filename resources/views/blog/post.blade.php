@@ -13,6 +13,8 @@
                     </li>
                 </ul>
                 <img src="{{ asset('storage/' . $post->thumbnail) }}" class=" mb-15 md:mb-25 rounded-sm md:rounded-md lg:rounded-lg" alt="blog-details">
+                {{-- <img src="../assets/img/blog/blog-img6.jpg" class=" mb-15 md:mb-25 rounded-sm md:rounded-md lg:rounded-lg" alt="blog-details">
+                 --}}
                 <p class="text-13px md:text-15px lg:text-16px leading-7 md:leading-8 text-optional-color mb-15 last:mb-0">
                     {{ $post->body }}
                 </p>

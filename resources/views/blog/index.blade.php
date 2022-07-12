@@ -1,4 +1,4 @@
-<x-main-layout>
+<x-layouts.main-layout>
 
 <!-- Page Title Area -->
     <div
@@ -18,16 +18,17 @@
           dla osób lubiących czytać.
         </p>
       </div>
-      <div class="reative flex lg:inline-flex items-center bg-gray-100 rounded-xl px-3 py-2">
+      <div class="mt-1 relative rounded-md shadow-sm px-3 py-2">
         <form action="#" method="GET">
             <input 
                 type="text" 
                 name="search" 
                 placeholder="szukaj"
-                class="bg-transparent placeholder-black font-semibold text-sm"
+                class="focus:ring-indigo-500 focus:border-indigo-500 block pl-7 pr-12 sm:text-sm border-gray-300 rounded-md border-4 border-indigo-600"
                 value="{{ request('search') }}">
         </form>
       </div>
+
     </div>
     <!-- End Page Title Area -->
 
@@ -57,4 +58,4 @@
     
     <x-footer.support-area />
 
-</x-main-layout>
+</x-layouts.main-layout>

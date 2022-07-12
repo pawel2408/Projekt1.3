@@ -2,6 +2,7 @@
     <a href="blog-details.html" class="d-block">
       <img
         src="{{ asset('storage/' . $post->thumbnail) }}"
+        {{-- src="assets/img/blog/blog-img6.jpg" --}}
         class="rounded-md mb-25 inline-block"
         alt="blog-image"
       />

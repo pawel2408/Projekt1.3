@@ -21,8 +21,8 @@
     </head>
     <body>
 
-        @include('layouts._main-navigation')
-        @include('layouts._main-mobile-navigation')
+        @include('components.layouts._main-navigation')
+        @include('components.layouts._main-mobile-navigation')
 
             {{ $slot }}
 
